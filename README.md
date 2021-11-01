@@ -1,2 +1,2 @@
 # WallStreetBets_Tracker
-Python
+Track unusual activities (short squeeze, volume, etc) on wsb
